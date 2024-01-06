@@ -49,6 +49,6 @@ Licensed under MIT License. See [LICENSE](LICENSE) file.
 
 ## Notes
 Did you found a bug? Or did you have some recomendations?
-Or may be you just need some help?
+Or may be you just need some helps?
 Please raise an
-[issue](https://github.com/kucingbasah737/rootdomain-cli/issues)
+[issue](https://github.com/kucingbasah737/rootdomain-cli/issues).
