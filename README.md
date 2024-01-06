@@ -10,7 +10,7 @@ This package intended to call from CLI.
 
 **BEWARE**, this tool writen under influence of a bottle of vodka.
 
-![vodka](./images/vodka-meme.jpeg)
+![vodka](./memes/vodka-meme.jpeg)
 
 ## Requirements
 - node.js >= 16.x
