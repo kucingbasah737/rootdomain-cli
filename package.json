@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/kucingbasah737/rootdomain-cli#readme",
   "dependencies": {
+    "hostname-natural-order": "^1.1.0",
+    "tldts": "^6.1.1",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
