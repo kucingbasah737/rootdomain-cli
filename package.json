@@ -1,6 +1,6 @@
 {
   "name": "rootdomain-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Read hostname list from STDIN and dump root-domains on STDOUT",
   "main": "bin/index.js",
   "bin": {
