@@ -25,6 +25,9 @@
     "url": "https://github.com/kucingbasah737/rootdomain-cli/issues"
   },
   "homepage": "https://github.com/kucingbasah737/rootdomain-cli#readme",
+  "engines": {
+    "node": ">=16"
+  },
   "dependencies": {
     "hostname-natural-order": "^1.1.0",
     "tldts": "^6.1.1",
