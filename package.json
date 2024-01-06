@@ -1,0 +1,31 @@
+{
+  "name": "rootdomain-cli",
+  "version": "0.0.1",
+  "description": "Read hostname list from STDIN and dump root-domains on STDOUT",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postversion": "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kucingbasah737/rootdomain-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "rootdomain",
+    "root-domain"
+  ],
+  "author": "Kucing Basah 737 <kucingbasah737@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kucingbasah737/rootdomain-cli/issues"
+  },
+  "homepage": "https://github.com/kucingbasah737/rootdomain-cli#readme",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "semistandard": "^17.0.0"
+  }
+}
